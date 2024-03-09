@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+    <title> EJEMPLOOO</title>
+</head>
+<body>
+    <h1>ENCAVESADO 1</h1>
+    <h5>ENCABESADO 5</h5>
+
+     <p>texto cualquiera</p>
+
+     textoc cuaquieratextoc cuaquiera
+
+     <hr>
+      
+     <h2>LISTAS desordenada</h2>
+     <ul>
+         <li>lista uno</li>
+         <li>lista uno</li>
+         <li>lista uno</li>
+     </ul>
+     </body>
+     </html>
